@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I'm Shamsheer Rahiman, a passionate data science enthusiast with a deeply-vested interest in everything tech! 🚀
 
+<br>
+
 **⚡ Some quick facts to know about me:**
 - Final year student pursuing Bachelor of Technology in Data Science 🎓
 - Actively Seeking Exciting Collaborations in AI and ML Projects 👯
