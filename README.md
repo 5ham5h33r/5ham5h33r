@@ -22,6 +22,8 @@ I'm Shamsheer Rahiman, a passionate data science enthusiast with a deeply-vested
 - Actively Seeking Exciting Collaborations in AI and ML Projects 👯
 - Love Exploring New Technologies and Applications 🚀
 
+<br>
+
 **📚 Some of my projects:**
 - [Book-Bae](https://github.com/5ham5h33r/Book_Bae)
 - [Anime Recommendation System](https://github.com/5ham5h33r/Anime_Recommendation_System)
