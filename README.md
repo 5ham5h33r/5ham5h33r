@@ -1,47 +1,38 @@
-## Hellloo World! 😁
+## 👋 Hello World! I'm Shamsheer Rahiman
 
-<!--
-**5ham5h33r/5ham5h33r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Graduate Student at the University of Southern California (USC)** ✌️  
+*Former Data Scientist & Software Engineer @ ION Group*
 
-Here are some ideas to get you started:
+I specialize in building production-grade **AI/ML Systems**, **Data Engineering Pipelines**, and **Full-Stack Applications**. My work focuses on bridging the gap between complex data architecture and real-world business impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-I'm Shamsheer Rahiman, a passionate data science enthusiast with a deeply-vested interest in everything tech! 🚀
+### 🧪 Technical Projects
 
-<br>
+#### 🤖 AI & Machine Learning
+- **[Dysarthria Detection](https://github.com/5ham5h33r/Dysarthria-Detection)** - CNN+LSTM model (91% accuracy) with **Whisper (STT)** and TTS pipelines for speech enhancement.
+- **[Anime Recommendation System](https://github.com/5ham5h33r/Anime_Recommendation_System)** - Hybrid collaborative + content-based filtering system packaged as a PyPi library.
+- **[Checkers AI](https://github.com/5ham5h33r/Checkers_AI)** - Minimax algorithm with Alpha-Beta pruning for strategic game-tree search.
+- **[Aadhaar Card Extractor](https://github.com/CVAProject/AadhaarCardInformationExtractor)** - Automated PII extraction using Computer Vision and OCR.
 
-**⚡ Some quick facts to know about me:**
-- Final year student pursuing Bachelor of Technology in Data Science 🎓
-- Actively Seeking Exciting Collaborations in AI and ML Projects 👯
-- Love Exploring New Technologies and Applications 🚀
+#### 🏗️ Software & Data Engineering
+- **[Book-Bae](https://github.com/5ham5h33r/Book_Bae)** - Full-stack **Django** & **PostgreSQL** platform deployed on **Azure** for personalized book discovery.
+- **[BookYourShow](https://github.com/5ham5h33r/BookYourShow)** - Android app built with **Kotlin** and **Jetpack Compose**, integrating Ticketmaster and Google Places APIs.
+- **[Codebreaker](https://github.com/5ham5h33r/CodeBreaker_Android)** - Logic-based Android puzzle game showcasing mobile UI/UX design and state management.
 
-<br>
+---
 
-**📚 Some of my projects:**
-- [Book-Bae](https://github.com/5ham5h33r/Book_Bae)
-- [Anime Recommendation System](https://github.com/5ham5h33r/Anime_Recommendation_System)
-- [Aadhaar Card Information Extractor](https://github.com/CVAProject/AadhaarCardInformationExtractor)
-- [Checkers AI](https://github.com/5ham5h33r/Checkers_AI)
-- [Codebreaker](https://github.com/5ham5h33r/CodeBreaker_Android)
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, SQL (Databricks, PostgreSQL, Oracle, MySQL), Java, C++, Kotlin
+- **Data & AI:** Unity Catalog, Hive Metastore, LangChain, PySpark, TensorFlow, PyTorch, MLflow, NLP
+- **Cloud & Tools:** Azure, Databricks, GCP, Docker, Kubernetes, Flask, Django, Streamlit
 
-### You can check out my webpage: [Here](https://5ham5h33r.github.io/)
-(Strongly recommend you do so!)
-<hr>
-Let's connect and explore the fascinating world of data and technology together! <br>Here's all the places you can reach me at:
-<br><br>
+---
 
-- [Email](mailto:shamsheerkhalid99@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/shamsheer-rahiman-a8532a113)
-- [Kaggle](https://www.kaggle.com/shamsheerrahiman)
+### 📫 Connect with Me
+- 🌐 **Portfolio:** [Here](https://5ham5h33r.github.io/)
+- 💼 **LinkedIn:** [Shamsheer-Rahiman](https://www.linkedin.com/in/shamsheer-rahiman)
+- 📧 **Email:** [shamsheerkhalid99@gmail.com](mailto:shamsheerkhalid99@gmail.com)
 
-<!--![Shamsheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=5ham5h33r&show_icons=true&theme=dark) -->
-
+---
+*"Turning data into actionable intelligence, one commit at a time."*
