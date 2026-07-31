@@ -1,38 +1,49 @@
-## 👋 Hello World! I'm Shamsheer Rahiman
+# Shamsheer Abdul Rahiman
 
-**Computer Science Graduate Student at the University of Southern California (USC)** ✌️  
-*Former Data Scientist & Software Engineer @ ION Group*
+**MS Computer Science @ USC** (May 2027) · AI Research Intern @ **Centific** · ex-Data Scientist / ML-AI Engineer @ **ION Group**
 
-I specialize in building production-grade **AI/ML Systems**, **Data Engineering Pipelines**, and **Full-Stack Applications**. My work focuses on bridging the gap between complex data architecture and real-world business impact.
-
----
-
-### 🧪 Technical Projects
-
-#### 🤖 AI & Machine Learning
-- **[Dysarthria Detection](https://github.com/5ham5h33r/Dysarthria-Detection)** - CNN+LSTM model (91% accuracy) with **Whisper (STT)** and TTS pipelines for speech enhancement.
-- **[Anime Recommendation System](https://github.com/5ham5h33r/Anime_Recommendation_System)** - Hybrid collaborative + content-based filtering system packaged as a PyPi library.
-- **[Checkers AI](https://github.com/5ham5h33r/Checkers_AI)** - Minimax algorithm with Alpha-Beta pruning for strategic game-tree search.
-- **[Aadhaar Card Extractor](https://github.com/CVAProject/AadhaarCardInformationExtractor)** - Automated PII extraction using Computer Vision and OCR.
-
-#### 🏗️ Software & Data Engineering
-- **[Book-Bae](https://github.com/5ham5h33r/Book_Bae)** - Full-stack **Django** & **PostgreSQL** platform deployed on **Azure** for personalized book discovery.
-- **[BookYourShow](https://github.com/5ham5h33r/BookYourShow)** - Android app built with **Kotlin** and **Jetpack Compose**, integrating Ticketmaster and Google Places APIs.
-- **[Codebreaker](https://github.com/5ham5h33r/CodeBreaker_Android)** - Logic-based Android puzzle game showcasing mobile UI/UX design and state management.
+I build production AI systems — and the evaluation infrastructure that tells you whether they actually work. Agentic pipelines, real-time voice, LLM benchmarking, and the data engineering underneath.
 
 ---
 
-### 🛠️ Tech Stack & Skills
-- **Languages:** Python, SQL (Databricks, PostgreSQL, Oracle, MySQL), Java, C++, Kotlin
-- **Data & AI:** Unity Catalog, Hive Metastore, LangChain, PySpark, TensorFlow, PyTorch, MLflow, NLP
-- **Cloud & Tools:** Azure, Databricks, GCP, Docker, Kubernetes, Flask, Django, Streamlit
+## Featured Work
+
+### [GiveMeVoice](https://github.com/5ham5h33r/GiveMeVoice) — a voice agent that places and answers real phone calls
+
+Bridges **Twilio Media Streams** and the **OpenAI Realtime API** over 8 kHz μ-law audio, end to end. Delivers a live transcript, in-call translation, and a structured JSON call-outcome summary in the user's own language. Ships with a zero-cost mock mode so the full UI can be rehearsed without Twilio or OpenAI.
+
+**[▶ Watch a real call — demo video](https://drive.google.com/file/d/1ycTWV5zDU4iZj2_g7Y_bovpN3GTDRUfs/view?usp=sharing)**
+
+*Node.js · Express · WebSockets · Twilio Voice · OpenAI Realtime*
+
+### [SilhouetteAI](https://github.com/5ham5h33r/SilhouetteAI) — on-device PII redaction before your prompt leaves the browser
+
+A browser extension that intercepts prompts headed for ChatGPT, Claude, Gemini and Copilot and redacts personally identifiable information using a transformer NER model running **entirely locally** via ONNX Runtime and WASM — prompt contents are never sent anywhere for analysis. Reversible tokenization restores the original values in the rendered DOM.
+
+*ONNX Runtime Web · WASM · Transformer NER · Chrome Extensions · IndexedDB*
+
+### [Dysarthria Detection](https://dysarthriadetection.streamlit.app/) — speech clarity enhancement for dysarthric speakers
+
+A CNN+LSTM model in TensorFlow/Keras detecting dysarthric speech at **91% accuracy**, wired into a Whisper speech-to-text and TTS re-synthesis pipeline behind a live Streamlit app.
+
+*TensorFlow · Keras · Whisper · Streamlit*
+
+### [BookYourShow](https://github.com/5ham5h33r/BookYourShow) — location-aware event discovery on Android and web
+
+Kotlin and Jetpack Compose app over the Ticketmaster Discovery and Google Places APIs, with network calls and UI state orchestrated through a Repository pattern using Retrofit and Coroutines. Favorites sync via MongoDB Atlas to a [companion web app on GCP](https://bookyourshow-471606.wl.r.appspot.com/).
+
+*Kotlin · Jetpack Compose · Retrofit · Coroutines · MongoDB Atlas · GCP*
 
 ---
 
-### 📫 Connect with Me
-- 🌐 **Portfolio:** [Here](https://5ham5h33r.github.io/)
-- 💼 **LinkedIn:** [Shamsheer-Rahiman](https://www.linkedin.com/in/shamsheer-rahiman)
-- 📧 **Email:** [shamsheerkhalid99@gmail.com](mailto:shamsheerkhalid99@gmail.com)
+## What I work with
+
+**Languages** — Python · SQL (Databricks, PostgreSQL, Oracle, MySQL) · Java · Kotlin · JavaScript · C++
+
+**AI & ML** — Agentic pipelines · LangChain · RAG · LLM evaluation & benchmarking · PyTorch · TensorFlow · PySpark ML · MLflow
+
+**Data & Cloud** — Databricks · Unity Catalog · Spark · Azure · GCP · Docker · CI/CD
 
 ---
-*"Turning data into actionable intelligence, one commit at a time."*
+
+[Portfolio](https://5ham5h33r.github.io/) · [LinkedIn](https://www.linkedin.com/in/shamsheer-rahiman/) · shamsheerkhalid99@gmail.com
