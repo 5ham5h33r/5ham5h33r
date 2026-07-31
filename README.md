@@ -1,4 +1,4 @@
-# Shamsheer Abdul Rahiman
+# Shamsheer
 
 **MS Computer Science @ USC** (May 2027) · AI Research Intern @ **Centific** · ex-Data Scientist / ML-AI Engineer @ **ION Group**
 
